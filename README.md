@@ -1,4 +1,4 @@
-REACT-CHALLENGE 01 <br/>
+REACT-CHALLENGE 02 <br/>
  Instruções:
  * Você tem um formulário de login INCOMPLETO
  * Não é permitido adicionar novos elementos HTML
@@ -10,3 +10,5 @@ REACT-CHALLENGE 01 <br/>
  - Task - Desabilite o botão de Login enquanto você está executando o login.
  - Task - Mostre uma mensagem de erro de login() caso o Login falhe. A mensagem deve ser limpa a cada nova tentativa de Login.
  - Task - Mostre um alerta caso o login seja efetuado com sucesso (javascript alert). Investigue a função login() para entender como ter sucesso na requisição.
+
+ - LINK: https://github.com/nandokferrari/fernandev-react-challenge-02
